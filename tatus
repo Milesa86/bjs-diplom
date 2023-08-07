@@ -1,0 +1,98 @@
+[33m798c58d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Update README.md
+[33m7942a08[m Исправление ссылок на изображения
+[33m6efad26[m Update README.md
+[33mf7673a8[m Update README.md
+[33m9dee25b[m errors
+[33m6cce1ea[m update packages versions
+[33m438ce53[m Remove babel from dependencies
+[33mc4c4ead[m Update comments
+[33m05a454b[m Update node version description
+[33m033ce38[m Change to require. Fixed add self to favorites
+[33md005a26[m Remove linter comments
+[33m6516d60[m Add preventDefault actions for button clicks
+[33m49ff42c[m Add condition
+[33m960389c[m Change logout div to button
+[33m0e23a39[m Merge branch 'master' of https://github.com/netology-code/bjs-diplom
+[33m9abb68c[m Change login & register div to button
+[33mb9d02ba[m fixed mistake
+[33m961ba9e[m fixed mistake
+[33m7ddbf7c[m Updade isSuccess flag & data change to error
+[33m51e8a02[m Fixed favorite id validation
+[33m0b0646c[m Merge pull request #19 from netology-code/updates
+[33m4939b51[m updates
+[33m4a83e04[m Add currency existing validation
+[33mbc181da[m Update callback error
+[33m6f8827e[m Update babel package
+[33mcb0f0c4[m Remove lint script
+[33m6717d13[m Removel linter. Update packages
+[33mbba1abd[m Fixed mistake
+[33md7695fc[m Fixed registered user id
+[33mf244aef[m Add babel. Fixed convert error
+[33m3160a02[m add pre-commit hook
+[33m91bf77f[m Merge branch 'master' of https://github.com/netology-code/bjs-diplom
+[33ma5999fd[m update description. Update source code to work eslint
+[33m4ffa49b[m Fixed method descrtiption error
+[33mc0e497a[m Update to work linter
+[33m9ac9c39[m add eslint
+[33m0ebaf64[m Merge branch 'task-v.2.0'
+[33mad4b567[m remove all
+[33m7bd04d9[m Remove uniqid, id user is iterable, fixed user register validation. Add default users
+[33m5644e6f[m update showing favorite user's id
+[33mcef339a[m Update README.md
+[33mb72890a[m Merge branch 'task-v.2.0' of https://github.com/netology-code/bjs-diplom into task-v.2.0
+[33m5028b1a[m Update description
+[33m652711c[m Remove default persons. Add validation  empty inputs for favorites
+[33m8e9b0a0[m Merge pull request #16 from wizzzjer/task-v.2.0
+[33m14f5a36[m compressed image
+[33m7b16570[m mistypes fixes
+[33mefb99ae[m Additions to description and minor css fixes
+[33mc91102e[m fixed grammatical errors
+[33m389ac06[m Add image descriptions
+[33mfc22bcb[m Add homework description
+[33meb9d477[m Merge pull request #15 from wizzzjer/task-v.2.0
+[33m5c36a46[m images fixed
+[33mbbe06e4[m Project description started
+[33mecc1e86[m Add UI logic. Update server logic
+[33ma832b79[m Merge pull request #12 from netology-code/dependabot/npm_and_yarn/mongoose-5.7.5
+[33m8ffb977[m Merge pull request #14 from netology-code/dependabot/npm_and_yarn/mixin-deep-1.3.2
+[33m1d0af63[m Merge pull request #13 from netology-code/dependabot/npm_and_yarn/lodash-4.17.15
+[33m66b2ba2[m Bump lodash from 3.10.1 to 4.17.15
+[33m2f96c2d[m Bump mixin-deep from 1.3.1 to 1.3.2
+[33m17f8535[m Bump mongoose from 5.4.5 to 5.7.5
+[33md604e02[m Merge branch 'task-v.2.0' of github.com:netology-code/bjs-diplom into task-v.2.0
+[33m09ebdab[m Add amount validation
+[33mc879f60[m Change express-session to cookie-session
+[33m52d3b15[m removed file
+[33m590e8fe[m Merge pull request #11 from wizzzjer/task-v.2.0
+[33m5da8c77[m logout button added
+[33m9bd2ac7[m adaptivity added
+[33m3a41fa3[m Refactored getting stocks, add convertMoney request
+[33m142310d[m Add money requests add, transfer
+[33mf428e96[m Add favorites requests: getFavorites, addUserToFavorites, removeUserFromFavorites
+[33m5ecb595[m Add register, login, logout, current & stocks requests
+[33m3b87146[m Add authorization
+[33mcad4112[m Rename base files
+[33mba32722[m Merge pull request #10 from wizzzjer/task-v.2.0
+[33m9d06368[m scripts moved
+[33mbb729c4[m added layout
+[33mc676f62[m init changes
+[33m7e26ba2[m Merge pull request #9 from vovachebr/master
+[33m65652a9[m Fixed output
+[33me793e83[m Merge pull request #8 from vovachebr/master
+[33m06ee163[m Fixed output
+[33m896ccac[m Merge pull request #7 from wizzzjer/master
+[33m3c93b17[m Update README.md
+[33m2216ab9[m description fixes
+[33m8b23c32[m added error picture
+[33m706fc87[m Update README.md
+[33mff899f1[m Merge pull request #2 from solarrust/master
+[33m7d6ac65[m Test for Profile class constructor
+[33m1d93cb8[m Tests folder + mocha
+[33m703eff1[m Open localhost when start app
+[33md774754[m Fix
+[33m2a964cb[m Merge pull request #1 from wizzzjer/master
+[33m7b86d50[m Merge pull request #1 from solarrust/patch-1
+[33mc19459b[m Первый драфт исправленного описаний
+[33me1149e3[m Update api-connector.js
+[33m3c491bc[m Update README.md
+[33m6df01e9[m add squashed diploma

@@ -4,7 +4,7 @@
 
 let logoutButton = new LogoutButton();
 logoutButton.action = () => {
-    ApiConnector.logoutBtn((response) => {
+    ApiConnector.logout((response) => {
         if (response.success) {
             location.reload();
         }
@@ -82,9 +82,9 @@ favoritesWidget.addUserCallback = (id) => {
             favoritesWidget.clearTable();
             favoritesWidget.fillTable(response.data);
             moneyManager.updateUsersList(response.data);
-            moneyManager.setMessage(response.success, 'Пользователь добавлен в избранное')
+            favoritesWidget.setMessage(response.success, 'Пользователь добавлен в избранное')
         } else {
-            moneyManager.setMessage(response.success, response.error)
+            favoritesWidget.setMessage(response.success, response.error)
         }
     })
 }
@@ -95,9 +95,9 @@ favoritesWidget.removeUserCallback = (id) => {
             favoritesWidget.clearTable();
             favoritesWidget.fillTable(response.data);
             moneyManager.updateUsersList(response.data);
-            moneyManager.setMessage(response.success, 'Пользователь удален из избранного')
+            favoritesWidget.setMessage(response.success, 'Пользователь удален из избранного')
         } else {
-            moneyManager.setMessage(response.success, response.error)
+            favoritesWidget.setMessage(response.success, response.error)
         }
     })
 }
